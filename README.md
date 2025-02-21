@@ -13,3 +13,4 @@ Este repositório destina-se à UC de Processamento de Linguagens no ano letivo 
 ### Lista de Referências para os ficheiros dos TPCs
 
 - [TPC1](./TPC1)
+- [TPC2](./TPC2)
