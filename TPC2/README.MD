@@ -1,4 +1,4 @@
-# TPC1 - Trabalho Prático 2 (09/02/2024)
+# TPC2 - Trabalho Prático 2 (16/02/2024)
 
 - **Nome:** Gonçalo da Silva Alves
 - **Nº:** A104079
