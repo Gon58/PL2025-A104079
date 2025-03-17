@@ -15,3 +15,5 @@ Este repositório destina-se à UC de Processamento de Linguagens no ano letivo 
 - [TPC1](./TPC1)
 - [TPC2](./TPC2)
 - [TPC3](./TPC3)
+- [TPC4](./TPC4)
+- [TPC5](./TPC5)
